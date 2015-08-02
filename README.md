@@ -1,11 +1,9 @@
 # SVG Paintings
-======================
 This Projects are Paintings to SVG.  
 http://suzukihidetaka.net/  
 @suzukihidetaka  
  
-## Licence 
-----------
+## Licence
 Copyright &copy; 2015 Hidetaka SUZUKI  
 Distributed under the [MIT License][mit].  
 Dual licensed under the [MIT license][MIT] and [GPL license][GPL].  
